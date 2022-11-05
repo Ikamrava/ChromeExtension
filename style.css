@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+
+input {
+  border: #5f9341 2px solid;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(150, 186, 202);
+  box-sizing: border-box;
+  font-size: 15pt;
+}
+
+button {
+  margin-top: 10px;
+  background-color: #5f9341;
+  font-size: 15pt;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+li {
+  font-size: 20pt;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+a {
+  color: #5f9341;
+}
